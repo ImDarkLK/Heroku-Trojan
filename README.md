@@ -1,2 +1,4 @@
 # Heroku-Trojan
-Heroku Docker Container To Deploy Xray-Core With Trojan + Websocket + TLS
+> Deploy To Heroku Xray-Core With Trojan + Websocket + TLS 🖤
+
+# Deploy To Heroku 
