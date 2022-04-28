@@ -1,0 +1,13 @@
+{
+    "name": "xray-heroku",
+    "description": "deploy xray to heroku",
+    "keywords": ["xray"],
+    "env": {
+        "PASSWORD": {
+            "description": "Trojan Password",
+            "value": "ImDarkLK"        
+        }
+    },
+    "repository": "https://github.com/ImDarkLK/Heroku-Trojan",
+    "stack": "container"
+}
